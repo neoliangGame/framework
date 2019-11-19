@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b7d51fbcd80caf4591f6fcc69db9113, type: 3}
+  m_Name: assetBundleData
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    bundleName: neo
+    assetName: AssetBundleManifest
+    path: Assets/StreamingAssets/neo
+    isPrefab: 0
+    preLoad: 0
+  - id: 2
+    bundleName: test1
+    assetName: prefab1.prefab
+    path: Assets/NEO/examples/Resource/AssetBundle/originAssets/Test1/prefab1.prefab
+    isPrefab: 1
+    preLoad: 0
+  - id: 3
+    bundleName: test2
+    assetName: prefab2.prefab
+    path: Assets/NEO/examples/Resource/AssetBundle/originAssets/Test2/prefab2.prefab
+    isPrefab: 1
+    preLoad: 0
+  - id: 4
+    bundleName: test3
+    assetName: prefab3.prefab
+    path: Assets/NEO/examples/Resource/AssetBundle/originAssets/Test3/prefab3.prefab
+    isPrefab: 1
+    preLoad: 0
+  - id: 5
+    bundleName: test4
+    assetName: sprite4
+    path: Assets/NEO/examples/Resource/AssetBundle/originAssets/Test4/sprite4.png
+    isPrefab: 0
+    preLoad: 0
