@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2210146107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0550b051053be5312892994bf42b18f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e369a93bbf70d982447390dba7c9c9e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test1/material1.mat
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test1/sprite1.png
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test3/sprite3.png
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test2/sprite2.png
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test1/prefab1.prefab
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/atlas.spriteatlas
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2524341755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 507246407c38a13dbbf7458b976ef233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c14c144446a0d5e7633ca1d79f4d7b01
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test2/material2.mat
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test2/prefab2.prefab
+Dependencies:
+- E:/neo/Projects/NEOFramework/Assets/StreamingAssets/neo/test1

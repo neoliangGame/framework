@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3628336326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 223167a2b8ffde7b04abea919c307408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52b90fe34acdbe892c80e1ff630fee3e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test4/prefab4.prefab
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test4/material4.mat
+- Assets/NEO/examples/Resource/AssetBundle/originAssets/Test4/sprite4.png
+Dependencies: []
