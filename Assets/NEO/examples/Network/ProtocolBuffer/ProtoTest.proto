@@ -1,0 +1,10 @@
+syntax = "proto3";
+package NEO.ProtoTest;
+
+message TestProto
+{
+	string name = 1;
+	int32 id = 2;
+	int32 number = 3;
+	string content = 4;
+}

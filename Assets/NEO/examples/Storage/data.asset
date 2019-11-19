@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5617ccde6cebf7d44a16b6a494b92142, type: 3}
+  m_Name: data
+  m_EditorClassIdentifier: 
+  intItems:
+  - name: testInt1
+    value: 12345
+  floatItems:
+  - name: testFloat1
+    value: 5.666
+  - name: testFloat2
+    value: 0
+  stringItems:
+  - name: testString3
+    value: 
+  - name: testString5
+    value: wulalala
